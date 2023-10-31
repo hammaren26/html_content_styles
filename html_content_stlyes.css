@@ -1,0 +1,12 @@
+.html_content {
+    font-size: 18px;
+}
+
+.html_content > * {
+    margin: 8px 0;
+}
+
+.html_content ul li {
+    margin-left: 19px;
+    list-style-type: disc;
+}
